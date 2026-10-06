@@ -1,0 +1,21 @@
+Supplier_ID,Supplier_Name,Supplier_Region,Lead_Time_Days
+S001,Supplier 001,South,6
+S002,Supplier 002,Central,3
+S003,Supplier 003,North,9
+S004,Supplier 004,Central,13
+S005,Supplier 005,East,14
+S006,Supplier 006,North,4
+S007,Supplier 007,South,5
+S008,Supplier 008,East,2
+S009,Supplier 009,South,3
+S010,Supplier 010,North,9
+S011,Supplier 011,West,9
+S012,Supplier 012,West,6
+S013,Supplier 013,North,6
+S014,Supplier 014,South,12
+S015,Supplier 015,South,7
+S016,Supplier 016,West,12
+S017,Supplier 017,West,14
+S018,Supplier 018,West,6
+S019,Supplier 019,Central,4
+S020,Supplier 020,West,14

@@ -1,0 +1,15 @@
+Table,Column,Definition
+orders,Order_ID,Unique order identifier
+orders,Order_Date,Date the order was placed
+orders,Customer_ID,Synthetic customer identifier
+orders,Product_ID,Product key
+orders,Warehouse_ID,Fulfillment warehouse key
+orders,Quantity,Units in the order
+orders,Unit_Price,Synthetic unit price
+orders,Order_Value,Quantity multiplied by unit price
+shipments,Status,"On Time, Delayed, or Cancelled"
+shipments,Delivery_Days,Calendar days from order to delivery
+shipments,Delay_Days,Days after promised delivery date
+inventory_snapshot,Stock_Level,Synthetic inventory level
+inventory_snapshot,Reorder_Level,Synthetic reorder threshold
+inventory_snapshot,Days_of_Cover,Estimated inventory coverage

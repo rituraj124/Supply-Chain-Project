@@ -1,0 +1,9 @@
+Warehouse_ID,Warehouse_Name,Region,Capacity_Units
+W01,Warehouse 01,South,35140
+W02,Warehouse 02,West,25854
+W03,Warehouse 03,North,34790
+W04,Warehouse 04,East,31906
+W05,Warehouse 05,Central,42449
+W06,Warehouse 06,South,24911
+W07,Warehouse 07,West,44767
+W08,Warehouse 08,North,43273
